@@ -56,7 +56,7 @@ Discoverability results from appropriate application of six fundamental psycholo
 
 ### Affordances
 
-- refers to the relationship between a physical object and a person. (or any interacting agent)
+>refers to the relationship between a physical object and a person. (or any interacting agent)
 
 An affordance is a relationship between the properties of an object and the
 capabilities of the agent that determine just how the object could possibly be used.
