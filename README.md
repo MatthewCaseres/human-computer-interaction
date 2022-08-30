@@ -1,6 +1,6 @@
 # Human Computer Interaction
 
-Notes from [CS 6750: Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction) at GA Tech OMSCS.
+Notes from David Joyner's [CS 6750: Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction) class at GA Tech OMSCS.
 
 ## Table of Contents
 
