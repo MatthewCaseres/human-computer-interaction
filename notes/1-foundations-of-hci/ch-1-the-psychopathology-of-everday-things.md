@@ -1,5 +1,7 @@
 # Chapter 1: The Psychopathology of Everyday Things
 
+Chapter 1: The Psychopathology of Everyday Things. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 1-36). Arizona: Basic Books.
+
 Have you ever came up to a door and were confused on how to open it? Do you push, do you pull, do you slide? Or maybe the signage is actually different from what is necessary to open the door. This phenomenon is often called **Norman doors**, and they can be frustrating.
 
 Doors should indicate how it works without the need for signs, and especially without trial and error.
